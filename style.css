@@ -1,0 +1,30 @@
+body{
+    background-color: cyan;
+}
+#Ir_head{
+    color: blue;
+    
+}
+h1:hover{
+
+    background-color: gold;
+}
+.name_of_objects{
+    color: rgb(40, 7, 187); 
+}
+.webcam{
+    border: dotted red;
+    width: 400px;
+    height: 400px;
+}
+.captured_img{
+    border: dotted blueviolet;
+    width: 400px;
+    height: 400px;
+}
+#object_s{
+    color: brown;
+}
+#accuracy_s{
+    color: burlywood;
+}
